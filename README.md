@@ -30,3 +30,5 @@ synthesis network which includes ResNet as the backbone and
 using an augmentation pipeline for training. The advancement in StyleGAN2 ADA along with our experiments prove the
 advantages of using smaller datasets which are capable of
 yielding the same quality image.
+
+![image](https://github.com/kaushil268/Landscape-Image-Generation-using-StyleGAN2-ADA/assets/52043969/a67b7b03-95ae-451d-b546-a698b0ccc72b)
